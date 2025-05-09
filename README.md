@@ -51,6 +51,16 @@ Parsing & classifying data
 
 Building simple enrichment workflows for our Feed server.
 
+✅Future Improvements TODO :
+
+Add argparse to support CLI arguments
+
+Integrate with VirusTotal or GreyNoise
+
+Add timestamp to output
+
+Export to JSON or STIX2 format
+
 Feel free to fork, use, or improve.
 Created with ☕ and requests by Tomer Glik
 
