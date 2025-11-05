@@ -58,6 +58,3 @@ Add argparse to support CLI arguments
 Integrate with VirusTotal or GreyNoise
 
 
-Feel free to fork, use, or improve.
-Created with ☕ and requests by Tomer Glik
-
