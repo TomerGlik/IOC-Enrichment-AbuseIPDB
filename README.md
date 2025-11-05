@@ -33,7 +33,7 @@ Sample output:
 In bash
 pip install -r requirements.txt
 
-2.Replace the line in ioc_enricher.py with your own API key API_KEY = "INSERT_YOUR_API_KEY_HERE" L.5
+2.Replace the line in ioc_enricher.py with your own API key API_KEY = "YOUR_API" L.9
 
 3.Run the script, your results will be saved to enriched_ips.csv
 
